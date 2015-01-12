@@ -2,3 +2,5 @@ Hippo
 Cat
 Fennec Fox
 Ferret
+Cow
+Sheep
